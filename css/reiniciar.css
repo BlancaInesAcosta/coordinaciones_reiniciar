@@ -1,0 +1,74 @@
+p {
+	font-size:16px;
+	color:black;
+}
+
+img {
+	width:200px;
+	height:260px;
+}
+
+strong {
+	color: white;
+}
+
+.centrada {
+	margin-left: auto; 
+	margin-right: auto;
+}
+.portada {
+	width:150px;
+	height:200px;
+}
+.mapa {
+	width:400px;
+	height:503px;
+}
+.colombia {
+	width:400px;
+	height:560px;
+}
+div.crop-img {
+	max-width:100%;
+	overflow:hidden;
+	margin:0 auto;
+	padding:0;
+	position:relative;
+}
+div.crop-img img {
+	display:block;
+	max-width:none !important;
+}
+.imgcompleta {
+	width:400px;
+	height:500px;
+}
+.limpiar {
+	width:80px;
+	height:20px;
+	position:320, 380;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
